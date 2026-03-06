@@ -7,8 +7,7 @@ This project demonstrates clean UI design, structured content, and accessibility
 ---
 
 ## 🔗 Live Preview
-> _(Optional)_ Add your deployed link here  
-Example: https://rahul-morabiya.github.io/profile-portfolio
+ [https://rahul-morabiya.github.io/profile-portfolio](https://rahul-morabiya-portfolio-website.onrender.com)
 
 ---
 
